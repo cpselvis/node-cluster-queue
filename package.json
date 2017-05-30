@@ -1,7 +1,7 @@
 {
   "name": "node-cluster-queue",
   "description": " A multiple task queues implementation",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "lib/index.js",
   "scripts": {
     "commitmsg": "validate-commit-msg",
